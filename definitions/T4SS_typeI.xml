@@ -32,4 +32,6 @@ for more details.
     <gene name="T4SS_I_traY" presence="accessory" />
     <gene name="T4SS_I_trbA" presence="accessory" />
     <gene name="T4SS_I_trbB" presence="accessory" />
+
+    <gene name="T4SS_I_traV" presence="neutral" />
 </model>
