@@ -25,14 +25,14 @@ First, the `macsyfinder` program should be [installed](http://macsyfinder.readth
 
 The basic commands to run are then:
 
-    macsydata install TXSS
+    macsydata install TXSScan
 
 
-to install the TXSS package. 
+to install the TXSScan package. 
 
     macsyfinder --db-type ordered_replicon \
 		--sequence-db myproteins.fasta \
-		--models TXSS system 		
+		--models TXSScan system 		
 
 
 to run the search on your favorite organism's genom, where `system` is one or multiple systems listed above, or `all` to search for all the above listed systems
