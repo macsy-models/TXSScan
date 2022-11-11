@@ -32,8 +32,8 @@ To summarize :
 
 |TXSScan  | | #HMM profiles | #Models |
 | ------ | ---- | ------ | ------ |
-|TXSScan v1.1.0 | latest | 341 | 26 |
-|TXSScan v1.0.0 | [Sci Rep 2016](https://www.nature.com/articles/srep23080) | 205 | 22 |
+|TXSScan v1.1.1 | latest | 341 | 26 |
+|TXSScan v1.0.1 | [Sci Rep 2016](https://www.nature.com/articles/srep23080) | 205 | 22 |
 
 
 ## Installation and Usage with MacSyFinder
