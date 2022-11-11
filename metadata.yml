@@ -3,7 +3,7 @@ maintainer:
   name: Sophie Abby and Remi Denise
   email: sophie.abby@univ-grenoble-alpes.fr remi.denise@gmail.com
 short_desc: TXSScan - Models for 15 types of bacterial protein secretion systems and appendages (T1SS, T2SS, T3SS, T4P, pT4SS, T5SSs, T6SSs, Flagellum, Tad pilus, T9SS).
-vers: 1.0rc3
+vers: 1.0.1
 cite:
   - |
     Abby Sophie S., Cury Jean, Guglielmini Julien, Néron Bertrand, Touchon Marie, Rocha Eduardo P. C. (2016).

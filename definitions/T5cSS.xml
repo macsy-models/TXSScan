@@ -12,6 +12,6 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 for more details.
 -->
 
-<model inter_gene_max_space="1" vers="2.0">
-    <gene name="T5cSS_PF03895" presence="mandatory" loner="1"/>
+<model inter_gene_max_space="1"  min_genes_required="1" vers="2.0">
+    <gene name="T5cSS_PF03895" presence="mandatory"/>
 </model>
