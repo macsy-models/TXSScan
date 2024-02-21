@@ -3,26 +3,26 @@
 This set of MacSyFinder's models are dedicated to the genomic detection of bacterial secretion systems, and of evolutionarily related appendages. 
 The systems that can be detected are the following: 
 
-- Archaeal-T4P: the set of archeal type IV pili, comprising the archaeal flagellum (or archaeallum), the UV-induced pilus Ups, the bindosome Bas, etc... 
-- ComM: the competence machinery found in monoderms, including the classical Bacillus machinery
-- MSH: the mannose-sensitive hemagglutinin pilus
-- T1SS: the type I secretion system 
-- T2SS: the type II secretion system  
-- T3SS: the type III secretion system  
-- T4aP: the type IV pilus, sometimes also called the Type IVa pilus
-- T4bP: the type IVb pilus, comprising the R64 thin pilus, toxin-coregulated pilus (TCP), bundle-forming pilus (Bfp), longus pilus, and Cof pilus
-- pT4SSt, pT4SSi: two different types of type IV secretion systems involved in protein secretion (based on Mating Pair Formation type t and i respectively).
-- T5aSS, T5bSS, T5cSS: three different types of type V secretion system, namely the autotransporter (T5aSS), the two-partner secretion system (T5bSS) and the trimeric secretion system (T5cSS). 
-- T6SSi, T6SSii, T6SSiii: three variants of the type VI secretion system, namely the broadly distributed T6SSi, the one discovered in Francisella (T6SSii) and the one discovered in Bacteroidetes (T6SSiii).  
-- Flagellum: the bacterial flagellum, related to the T3SS. Note: components detected with this model are sufficient to distinguish between the flagellum and the related T3SS, but do not fully annotate the flagellar components. 
-- Tad: the Tad (thigh-adherence) pilus
-- T9SS: the type IX secretion system
 
+- **T1SS**: the type I secretion system 
+- **T2SS**: the type II secretion system  
+- **T3SS**: the type III secretion system  
+- **Flagellum**: the bacterial flagellum, related to the T3SS. Note: components detected with this model are sufficient to distinguish between the flagellum and the related T3SS, but do not fully annotate the flagellar components. 
+- **T4aP**: the type IV pilus, sometimes also called the Type IVa pilus
+- **T4bP**: the type IVb pilus, comprising the R64 thin pilus, toxin-coregulated pilus (TCP), bundle-forming pilus (Bfp), longus pilus, and Cof pilus
+- **pT4SSt, pT4SSi**: two different types of type IV secretion systems involved in protein secretion (based on Mating Pair Formation type t and i respectively).
+- **T5aSS, T5bSS, T5cSS**: three different types of type V secretion system, namely the autotransporter (T5aSS), the two-partner secretion system (T5bSS) and the trimeric secretion system (T5cSS). 
+- **T6SSi, T6SSii, T6SSiii**: three variants of the type VI secretion system, namely the broadly distributed T6SSi, the one discovered in Francisella (T6SSii) and the one discovered in Bacteroidetes (T6SSiii).  
+- **Tad**: the Tad (tight-adherence) pilus
+- **T9SS**: the type IX secretion system found in Bacteroidetes
+- **ComM**: the competence machinery found in monoderms, including the classical *Bacillus* machinery
+- **MSH**: the mannose-sensitive hemagglutinin pilus
+- **Archaeal-T4P**: the set of archeal type IV pili that include the archaeal flagellum (or archaeallum), the UV-induced pilus Ups, the bindosome Bas, etc... 
 
-This set of models corresponds to those published in 2016 in Scientific Reports, in 2019 in Plos Biology, in 2024 in Nature Communications (see below for full reference). 
+This set of models corresponds to those published in 2016 in Scientific Reports, in 2019 in Plos Biology, in 2024 in Nature Communications (see below for details and full references). 
 They are all in the format required for **MacSyFinder version 2** (Néron et al. 2023, Peer Community Journal). 
 
-This new version : 
+This new version of TXSScan: 
 
 * is the combination of TXSScan and TFFscan, with updates of TXSScan models from TFFscan
 * updates the T6SSiii model as described in Bongiovanni 2024
@@ -56,7 +56,6 @@ to install the TXSScan package.
 
 to run the search on your favorite organism's genom, where `system` is one or multiple systems listed above, or `all` to search for all the above listed systems
 (see [MacSyFinder's documentation](http://macsyfinder.readthedocs.io/en/latest/)). 
-
 
 It has to be noted that to ensure the highest annotation specificity, it is recommended to search for **all** systems in the package at once. 
 
