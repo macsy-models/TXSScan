@@ -12,7 +12,7 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 for more details.
 -->
 
-<model inter_gene_max_space="20" min_mandatory_genes_required="8" min_genes_required="8" multi_loci="1" vers="2.0">
+<model inter_gene_max_space="10" min_mandatory_genes_required="8" min_genes_required="8" multi_loci="1" vers="2.0">
 
     <gene name="T6SSiii_tssB" presence="mandatory" />
     <gene name="T6SSiii_tssC" presence="mandatory" />
@@ -24,7 +24,10 @@ for more details.
     <gene name="T6SSiii_tssI" presence="mandatory" loner="1"/>
     <gene name="T6SSiii_tssK" presence="mandatory" />
     <gene name="T6SSiii_tssN" presence="mandatory" />
+    <gene name="T6SSiii_tssO" presence="mandatory" />
     <gene name="T6SSiii_tssP" presence="mandatory" />
     <gene name="T6SSiii_tssQ" presence="mandatory" />
+    <gene name="T6SSiii_tssR" presence="mandatory" />
+
 
 </model>
