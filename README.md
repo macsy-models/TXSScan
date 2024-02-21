@@ -1,8 +1,8 @@
-# TXSScan: annotation of bacterial protein secretion systems
+# TXSScan: annotation of bacterial protein secretion systems and archaeal pili
 
-This set of MacSyFinder's models are dedicated to the genomic detection of bacterial secretion systems, and of evolutionarily related appendages. 
+This set of MacSyFinder's models are dedicated to the genomic detection of bacterial secretion systems, and of evolutionarily related appendages (including the archaeal pili). 
+
 The systems that can be detected are the following: 
-
 
 - **T1SS**: the type I secretion system 
 - **T2SS**: the type II secretion system  
