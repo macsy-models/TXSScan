@@ -33,7 +33,7 @@ To summarize :
 
 |TXSScan  | | #HMM profiles | #Models |
 | ------ | ---- | ------ | ------ |
-|TXSScan v1.1.2 | latest | 282 | 20 |
+|TXSScan v1.1.3 | latest | 282 | 20 |
 |TXSScan v1.1.1 | [Sci Rep 2016](https://www.nature.com/articles/srep23080) and [Plos Biol 2019](https://doi.org/10.1371/journal.pbio.3000390) | 341 | 26 |
 |TXSScan v1.0.1 | [Sci Rep 2016](https://www.nature.com/articles/srep23080) | 205 | 22 |
 

@@ -3,7 +3,7 @@ maintainer:
   name: Sophie Abby and Remi Denise
   email: sophie.abby@univ-grenoble-alpes.fr remi.denise@gmail.com
 short_desc: TXSScan - Models for 14 types of bacterial protein secretion systems and appendages (T1SS, T2SS, T3SS, T4aP, T4bP, pT4SS, T5SSs, T6SSs, Flagellum, Tad pilus, T9SS, Com pilus, MSH, Archaeal TFF).
-vers: 1.1.1
+vers: 1.1.3
 cite:
   - |
     Abby Sophie S., Cury Jean, Guglielmini Julien, Néron Bertrand, Touchon Marie, Rocha Eduardo P. C. (2016).
@@ -15,6 +15,11 @@ cite:
     Diversification of the type IV filament superfamily into machines for adhesion, protein secretion, DNA uptake, and motility.
     In PLoS Biology 17(7): e3000390.
     https://doi.org/10.1371/journal.pbio.3000390
+  - |
+    Bongiovanni Thibault R. et al (2024).
+    Assembly of a unique membrane complex in type VI secretion systems of Bacteroidota.
+    In Nature Communications, 15: 429.
+    https://doi.org/10.1038/s41467-023-44426-1
   - |
     Haft Daniel H., Selengut Jeremy D., White Owen (2003).
     The TIGRFAMs database of protein families
@@ -28,4 +33,4 @@ cite:
 
 doc: https://github.com/macsy-models/TXSScan
 license: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-copyright: 2014-2022, Institut Pasteur, CNRS
+copyright: 2014-2024, Institut Pasteur, CNRS
