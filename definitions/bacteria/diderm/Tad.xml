@@ -14,12 +14,12 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 for more details.
 -->
 
-<model inter_gene_max_space="5" min_mandatory_genes_required="4" min_genes_required="6" multi_loci="True" vers="2.0">
+<model inter_gene_max_space="5" min_mandatory_genes_required="4" min_genes_required="6" multi_loci="true" vers="2.1">
     <gene name="Tad_rcpA" presence="mandatory"/>    	
     <gene name="Tad_tadA" presence="mandatory"/>
     <gene name="Tad_tadB" presence="mandatory"/>
     <gene name="Tad_tadC" presence="mandatory"/>
-    <gene name="Tad_tadV" presence="mandatory" loner="True"/>
+    <gene name="Tad_tadV" presence="mandatory" loner="true"/>
     <gene name="Tad_tadZ" presence="mandatory"/>
     <gene name="Tad_flp" presence="mandatory"/>
     <gene name="Tad_tadE" presence="accessory"/>

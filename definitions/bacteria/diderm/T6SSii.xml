@@ -12,7 +12,7 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 for more details.
 -->
 
-<model inter_gene_max_space="5" min_mandatory_genes_required="10" min_genes_required="10" vers="2.0">
+<model inter_gene_max_space="5" min_mandatory_genes_required="10" min_genes_required="10" vers="2.1">
     <gene name="T6SSii_dotU" presence="mandatory"/>
     <gene name="T6SSii_iglA" presence="mandatory"/>
     <gene name="T6SSii_iglB" presence="mandatory"/>

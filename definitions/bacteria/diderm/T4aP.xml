@@ -15,13 +15,13 @@ for more details.
 -->
 
 
-<model inter_gene_max_space="5" min_mandatory_genes_required="4" min_genes_required="5" multi_loci="True" vers="2.0">
+<model inter_gene_max_space="5" min_mandatory_genes_required="4" min_genes_required="5" multi_loci="true" vers="2.1">
     <gene name="T4aP_pilB" presence="mandatory"/>
     <gene name="T4aP_pilC" presence="mandatory"/>
-    <gene name="T4aP_pilT" presence="mandatory" loner="True"/>
+    <gene name="T4aP_pilT" presence="mandatory" loner="true"/>
     <gene name="T4aP_pilQ" presence="mandatory"/>
     
-    <gene name="T4aP_pilA" presence="mandatory" loner="True"/>
+    <gene name="T4aP_pilA" presence="mandatory" loner="true"/>
 
     <gene name="T4aP_pilE" presence="accessory"/>
     <gene name="T4aP_pilV" presence="accessory"/>
@@ -37,7 +37,7 @@ for more details.
 
     <gene name="T4aP_pilU" presence="accessory"/>
 
-    <gene name="T4aP_pilD" presence="mandatory" loner="True" multi_model="True">
+    <gene name="T4aP_pilD" presence="mandatory" loner="true" multi_model="true">
     	<exchangeables>
             <gene name="T2SS_gspO"/>
             <gene name="ComM_comC"/>

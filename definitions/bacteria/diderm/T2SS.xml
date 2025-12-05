@@ -14,10 +14,10 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 for more details.
 -->
 
-<model inter_gene_max_space="5" min_mandatory_genes_required="3" min_genes_required="6" multi_loci="True" vers="2.0">
+<model inter_gene_max_space="5" min_mandatory_genes_required="3" min_genes_required="6" multi_loci="true" vers="2.1">
     <gene name="T2SS_gspC" presence="accessory"/> 
-    <gene name="T2SS_gspD" presence="mandatory" loner="True" multi_system="False"/>
-    <gene name="T2SS_gspE" presence="mandatory" loner="True"/>
+    <gene name="T2SS_gspD" presence="mandatory" loner="true" multi_system="false"/>
+    <gene name="T2SS_gspE" presence="mandatory" loner="true"/>
     <gene name="T2SS_gspF" presence="mandatory"/>
     <gene name="T2SS_gspG" presence="mandatory"/>
     <gene name="T2SS_gspH" presence="accessory"/>
@@ -28,7 +28,7 @@ for more details.
     <gene name="T2SS_gspM" presence="accessory"/>
     <gene name="T2SS_gspN" presence="accessory"/>
     
-    <gene name="T2SS_gspO" presence="accessory" loner="True" multi_model="True">
+    <gene name="T2SS_gspO" presence="accessory" loner="true" multi_model="true">
 	<exchangeables>
         <gene name="T4aP_pilD"/>
 	    <gene name="ComM_comC"/>

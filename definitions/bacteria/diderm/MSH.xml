@@ -15,8 +15,8 @@ for more details.
 -->
 
 
-<model inter_gene_max_space="5" min_mandatory_genes_required="3" min_genes_required="4" multi_loci="True" vers="2.0">
-    <gene name="MSH_mshA" presence="mandatory" loner="True"/>
+<model inter_gene_max_space="5" min_mandatory_genes_required="3" min_genes_required="4" multi_loci="true" vers="2.1">
+    <gene name="MSH_mshA" presence="mandatory" loner="true"/>
     <gene name="MSH_mshE" presence="mandatory"/>
     <gene name="MSH_mshG" presence="mandatory"/>
     <gene name="MSH_mshL" presence="mandatory"/>

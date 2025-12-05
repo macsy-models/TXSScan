@@ -12,7 +12,7 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 for more details.
 -->
 
-<model inter_gene_max_space="20" min_mandatory_genes_required="9" min_genes_required="10" multi_loci="1" vers="2.0"> 
+<model inter_gene_max_space="20" min_mandatory_genes_required="9" min_genes_required="10" multi_loci="1" vers="2.1"> 
     <gene name="Flg_sctJ_FLG" presence="mandatory"/>
     <gene name="Flg_sctN_FLG" presence="mandatory"/>       
     <gene name="Flg_sctQ_FLG" presence="mandatory"/>      

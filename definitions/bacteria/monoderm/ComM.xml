@@ -14,9 +14,9 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 for more details.
 -->
 
-<model inter_gene_max_space="5" min_mandatory_genes_required="4" min_genes_required="4" multi_loci="True" vers="2.0">
-    <gene name="ComM_comB" presence="accessory" loner="True"/>
-    <gene name="ComM_comC" presence="mandatory" loner="True"/>
+<model inter_gene_max_space="5" min_mandatory_genes_required="4" min_genes_required="4" multi_loci="true" vers="2.1">
+    <gene name="ComM_comB" presence="accessory" loner="true"/>
+    <gene name="ComM_comC" presence="mandatory" loner="true"/>
     <gene name="ComM_comGA" presence="mandatory"/>
     <gene name="ComM_comGB" presence="mandatory"/>
     <gene name="ComM_comGC" presence="mandatory"/>
@@ -24,13 +24,13 @@ for more details.
     <gene name="ComM_comGE" presence="accessory"/>
     <gene name="ComM_comGF" presence="accessory"/>
     <gene name="ComM_comGG" presence="accessory"/>
-    <gene name="ComM_comK" presence="accessory" loner="True"/>
-    <gene name="ComM_comX" presence="accessory" loner="True"/>
+    <gene name="ComM_comK" presence="accessory" loner="true"/>
+    <gene name="ComM_comX" presence="accessory" loner="true"/>
 
-    #Genes in addition for competence
+    <!-- Genes in addition for competence -->
     <gene name="ComM_comEA" presence="accessory"/>
-    <gene name="ComM_comEB" presence="accessory" loner="True"/>
-    <gene name="ComM_comEC" presence="mandatory" loner="True"/>
+    <gene name="ComM_comEB" presence="accessory" loner="true"/>
+    <gene name="ComM_comEC" presence="mandatory" loner="true"/>
 
     <gene name="ComM_comFA" presence="neutral"/>
     <gene name="ComM_comFC" presence="neutral"/>

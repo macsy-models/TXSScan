@@ -14,8 +14,8 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 for more details.
 -->
 
-<model inter_gene_max_space="5" min_mandatory_genes_required="3" min_genes_required="3" vers="2.0">
-	<gene name="Archaeal-T4P_arCOG02298_PP" presence="mandatory" loner="True" multi_system="True">
+<model inter_gene_max_space="5" min_mandatory_genes_required="3" min_genes_required="3" vers="2.1">
+	<gene name="Archaeal-T4P_arCOG02298_PP" presence="mandatory" loner="true" multi_system="true">
 		<exchangeables>
 			<gene name="Archaeal-T4P_arCOG02300" />
 		</exchangeables>

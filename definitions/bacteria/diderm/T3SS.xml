@@ -12,7 +12,7 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 for more details.
 -->
 
-<model inter_gene_max_space="10" min_mandatory_genes_required="7" min_genes_required="7" multi_loci="1" vers="2.0">
+<model inter_gene_max_space="10" min_mandatory_genes_required="7" min_genes_required="7" multi_loci="1" vers="2.1">
     <gene name="T3SS_sctC" presence="mandatory">        
         <exchangeables>
     	    <gene name="T2SS_gspD"/>
